@@ -1,7 +1,6 @@
-# Music_Sharing_portal
 <p>Music_Sharing_Site Music sharing site made in django.</p>
 
-
+<p>logo</p>
 
 <p>List of Feature Home page: Describes website and link to login page</p>
 
@@ -31,7 +30,6 @@
 
 <p>Logout</p>
 
-<p>Website Link http://musicsharingportal.pythonanywhere.com/</p>
+<p>How to run ? 1.) Go to Music_Sharing_Site2 folder 2.) Create new virtual env by running 'python -m venv env' or use existing venv inside project. [virtual env is recommended] 3.) Open terminal there and run 'pip install -r Music_Sharing_Site2/requirements.txt' . It will install all the required packages. 4.) apply migrations and finally python manage.py runserver Website Link http://musicsharingportal.pythonanywhere.com/</p>
 
 <p>if (youEnjoyed) {  starThisRepository(); } Thank You Author : Abhinav Shakunt</p>
-
