@@ -1,6 +1,6 @@
 <p>Music_Sharing_Site Music sharing site made in django.</p>
 
-<p>logo</p>
+
 
 <p>List of Feature Home page: Describes website and link to login page</p>
 
